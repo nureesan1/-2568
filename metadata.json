@@ -1,0 +1,5 @@
+{
+  "name": "Flood Relief Survey System",
+  "description": "A modern, mobile-responsive web application for collecting flood victim data and visualizing it on an admin dashboard. Connects to Google Sheets.",
+  "requestFramePermissions": []
+}
